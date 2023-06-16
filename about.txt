@@ -1,0 +1,21 @@
+* How to run this project
+
+------------------------------------------------------------------
+1.make sure python is installed 
+2.go inside 'list_backend' folder
+3.open the path throught 'cmd' and run it in vs code, by typing 'code .' 
+4.open terminal and run         " python -m venv env " and then ".\env\Scripts\activate "
+5.run the command               "pip install -r requirements.txt"
+6.then run command              "run python manage.py runserver" 
+------------------------------------------------------------------
+
+
+
+# About
+ 
+------------------------------------------------------------------
+This is a simple note reminder project, user can Create, Read, Delete, and Update the Note list 
+This is made from React as a Frontend and Django from Backend.
+Code is already in build in mode therefore no need to run the project saparately as a Frontend and Backend 
+Everything is managed by Django. 
+------------------------------------------------------------------    
